@@ -1,0 +1,6 @@
+{
+  "_comment": "Сюда можно добавлять Telegram ID пользователей, которым доступ разрешён вручную. Если ID есть в premium_users.json, премиум-доступ открывается автоматически. Для режима инкогнито используйте отдельный список incognitoUserIds. Пользователь из этого файла не блокируется даже если его ID есть в banned_users.json. В users можно задавать accessType: micro, marketing или combo, а также incognito: true.",
+  "premiumUserIds": [],
+  "users": {},
+  "incognitoUserIds": []
+}
